@@ -18,7 +18,7 @@
     "url": "https://github.com/heymdall/gulp-angular-files/issues"
   },
   "dependencies": {
-    "angular-jsdoc": "git+https://github.com/Heymdall/angular-jsdoc.git#master",
+    "angular-jsdoc": "0.3.3",
     "jsdoc": "^3.3.0-beta3",
     "through2": "^0.6.3"
   }
